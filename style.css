@@ -16,7 +16,7 @@ li a {display: block;
 		padding: 14px 16px;
 		text-decoration: none;
 		font-family: 'Bebas Neue', cursive;
-		font-size: 35px;
+		font-size: 25px;
 }
 
 li a:hover {
@@ -29,6 +29,7 @@ body {
 	background-image: url("supercaptain.jpeg");
 	 background-repeat: no-repeat;
 	 background-size: cover;
+	 margin-top: 50px;
 	 opacity:;
 }
 
@@ -126,4 +127,8 @@ p { color: red;
 
 .g-brooks {
 	color: #1F96E9 ;
+}
+
+.container {
+	height: 600px;
 }
